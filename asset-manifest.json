@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/shop-app/static/js/main.ffc37c4a.js",
+    "index.html": "/shop-app/index.html",
+    "main.ffc37c4a.js.map": "/shop-app/static/js/main.ffc37c4a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ffc37c4a.js"
+  ]
+}
