@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/shop-app/static/js/main.9e1d6407.js",
+    "main.js": "/shop-app/static/js/main.ebe3578d.js",
+    "static/media/error404.avif": "/shop-app/static/media/error404.e980830bc7c912710730.avif",
     "index.html": "/shop-app/index.html",
-    "main.9e1d6407.js.map": "/shop-app/static/js/main.9e1d6407.js.map"
+    "main.ebe3578d.js.map": "/shop-app/static/js/main.ebe3578d.js.map"
   },
   "entrypoints": [
-    "static/js/main.9e1d6407.js"
+    "static/js/main.ebe3578d.js"
   ]
 }
